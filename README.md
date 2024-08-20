@@ -1,5 +1,7 @@
 # The business impact of intelligent apps
 
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/session-cover.png)
+
 ## Session Desciption
 
 Leaders from every industry are reinventing digital experiences, reshaping business processes and creating new products with generative AI. Explore use cases and the value your business can realize with intelligent apps built on Azure.
