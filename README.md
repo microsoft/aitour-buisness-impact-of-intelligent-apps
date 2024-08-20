@@ -1,6 +1,6 @@
 # The business impact of intelligent apps
 
-![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/session-cover.png)
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK350%20Business%20impact.png.png)
 
 ## Session Desciption
 
@@ -23,14 +23,12 @@ You can find additional resources, including the slides of the presentation here
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Future Learning 1  | [Link 1](https://www.google.com/) | Learn more about X |
-| Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
+| BRK350 PPT Presentation  | [Link 1](https://www.google.com/) | Coming Soon |
+| BRK350 Session Recording  | [Link 2](https://aka.ms/AArw3v1/) | A video walkthrough of how to present the slides |
+| BRK350 Speaker Notes      | [Link 3](https://aka.ms/AArvw4u/) | The full speaker script in a Word doc |
 
 ## Content Owners
-Nikisha Reyes-Grange, Nate Ceres and Lindsay Buckles
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url.
+Nikisha Reyes-Grange (nikisha.reyes@microsoft.com)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
