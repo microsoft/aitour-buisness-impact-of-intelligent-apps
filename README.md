@@ -1,6 +1,6 @@
 # The business impact of intelligent apps
 
-![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK350%20Business%20impact.png.png)
+![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK350%20Business%20impact.png)
 
 ## Session Desciption
 
