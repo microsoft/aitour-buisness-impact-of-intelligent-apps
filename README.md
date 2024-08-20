@@ -18,7 +18,7 @@ Leaders from every industry are reinventing digital experiences, reshaping busin
 - Intelligent apps can drive significant, measurable impact in business processes, employee experience, product innovation, and customer experience
 - Microsoft and our partner network can help!
 
-## Additional Resources and Continued Learning
+## Session Resources
 You can find additional resources, including the slides of the presentation here.
 
 | Resources          | Links                             | Description        |
