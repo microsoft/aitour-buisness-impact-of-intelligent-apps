@@ -1,27 +1,23 @@
-To help prepare content for AI Tour, please use this template repository for organizing your sessions and preparing the content for future presentors.
-1. Update this readme with the todo's listed below
-2. The src folder has been created for all development tasks when creating this session
-3. The Lab folder is in-person and async participation with content, please update this folder with instructions for participants to follow along.
-4. The Presenter Notes folder is the train the trainer section. Here add any slide decks, demo videos, and other content as needed. This page has a rough layout to provide ideas but can be edited as needed.
-5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
-
-
-# [TODO: Insert Session Title]
-
-This repo is intended as a template for Microsoft AI Tour repositories
+# The business impact of intelligent apps
 
 ## Session Desciption
 
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+Leaders from every industry are reinventing digital experiences, reshaping business processes and creating new products with generative AI. Explore use cases and the value your business can realize with intelligent apps built on Azure.
 
-## Learning Outcomes
-TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
+## Goals
+- Convince customers that Azure is the best partner for intelligent app innovation
+- Position intelligent apps as the new standard
+- Establish key business objectives and ROI/outcomes
+- Showcase real customer stories
 
-## Technology Used
-TODO: Add a list of any technology or software used.
+## Key audience takeaways
+- Intelligent, AI-powered and genAI-enabled apps are the new standard
+- Customers can realize considerable ROI through strategic investments in building and modernizing intelligent apps
+- Intelligent apps can drive significant, measurable impact in business processes, employee experience, product innovation, and customer experience
+- Microsoft and our partner network can help!
 
 ## Additional Resources and Continued Learning
-TODO: If you would like to link the user to further learning, please enter that here.
+You can find additional resources, including the slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
@@ -29,7 +25,7 @@ TODO: If you would like to link the user to further learning, please enter that 
 | Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
 
 ## Content Owners
-TODO: Add yourself as a content owner
+Nikisha Reyes-Grange, Nate Ceres and Lindsay Buckles
 1. Change the src in the image tag to {your github url}.png
 2. Change INSERT NAME HERE to your name
 3. Change the github url in the final href to your url.
