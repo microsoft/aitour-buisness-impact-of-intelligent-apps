@@ -28,5 +28,5 @@ You can find additional resources, including the slides of the presentation here
 | BRK350 Speaker Notes      | [Link 3](https://aka.ms/AArvw4u/) | The full speaker script in a Word doc |
 
 ## Content Owners
-Nikisha Reyes-Grange, Title, Microsoft
+Nikisha Reyes-Grange, Director of Product Marketing, Microsoft
 
