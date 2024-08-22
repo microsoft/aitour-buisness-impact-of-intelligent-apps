@@ -23,9 +23,9 @@ You can find additional resources, including the slides of the presentation here
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| BRK350 PPT Presentation  | [Link 1](https://aka.ms/AArx9wb/) | The full presentation deck in US English |
-| BRK350 Session Recording  | [Link 2](https://aka.ms/AArw3v1/) | A video walkthrough of how to present the slides |
-| BRK350 Speaker Notes      | [Link 3](https://aka.ms/AArvw4u/) | The full speaker script in a Word doc |
+| BRK350 EN-US PPT Presentation  | [Link 1](https://aka.ms/AArx9wb/) | Full presentation deck in US English |
+| BRK350 Session Recording  | [Link 2](https://aka.ms/AArw3v1/) | Video recording of a walkthrough of the slides |
+| BRK350 Speaker Notes      | [Link 3](https://aka.ms/AArvw4u/) | Word doc with speaker notes per slide |
 
 ## Content Owners
 Nikisha Reyes-Grange, Director of Product Marketing, Microsoft
