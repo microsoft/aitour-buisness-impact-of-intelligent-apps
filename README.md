@@ -24,8 +24,8 @@ You can find additional resources, including the slides of the presentation here
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | BRK350 English PPT Presentation  | [Link](https://aka.ms/AArx9wb/) | Full presentation deck in US English |
-| BRK350 Korean PPT Presentation  | [Link]| Full presentation deck in Korean -- Coming soon|
-| BRK350 Japanese PPT Presentation  | [Link]| Full presentation deck in Japanese -- Coming soon|
+| BRK350 Korean PPT Presentation  | [Link](https://aka.ms/AAv6jjg/)| Full presentation deck in Korean |
+| BRK350 Japanese PPT Presentation  | [Link](https://aka.ms/AAv6jjf/)| Full presentation deck in Japanese |
 
 ## Content Owners
 Nikisha Reyes-Grange, Director of Product Marketing, Microsoft
